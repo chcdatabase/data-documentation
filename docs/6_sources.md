@@ -195,6 +195,7 @@ Below is a list of all sources currently used to populate the data of the CHCD. 
 | **PETERBURGSKII_1913** | Петербургский Некрополь. С-Ф. Т.4. - СПб: Типография М.М. Стасюлевича, 1913. |
 | **PHA** | "Passionists Missionaries in Hunan, China." Passionist Historical Archives. https://passionistarchives.org/explore-our-history/international-passionist-history/china-historical-summary/passionist-missionaries-in-hunan-china/ |
 | **PIME** | “Pontificio Istituto Missioni Estere - PIME.” PIME Archives. |
+| **PM** | V.V. Korostelёv, A.K. Karaulov, Pravoslavie v Man'chzhurii (1898-1956): Ocherki istorii (Orthodoxy in Manchuria (1898-1956): Essays on the history), Moskva: Pravoslavnyi Svjato-Tikhonovskii gumanitarnyi universitet, 2019. |
 | **PS-MS** | "Passionist Hunan Mission Statistics, 1922-1941." Passionist Historical Archives. https://passionistarchives.org/explore-our-history/international-passionist-history/china-historical-summary/passionist-hunan-mission-statistics-1922-1941/. Date supplied in code. |
 | **RBS_1896-V1** | Аввакум (Честной), архимандрит. Русский биографический словарь: Аарон – император Александр II / Изд. под наблюдением председателя Императорского Русского Исторического Общества А. А. Половцева – Санкт-Петербург: тип. И. Н. Скороходова, 1896 [4]. – Т. 1, 22, 23. |
 | **RBS_1897-V18** | Revue Bibliographiqu de Sinologie XVII (1897). |
@@ -224,6 +225,7 @@ Below is a list of all sources currently used to populate the data of the CHCD. 
 | **SM_4** | Hartwich, Richard. _Steyler Missionare in China: 4, Geistlicher Führer seiner Chinamissionare Rev.mus P. Wilh. Gier, 1922._ Beiträge zu einer Geschichte. Studia Instituti Missiologici Societatis Verbi Divini, 42. Nettetal: Steyler Verlag, 1988. |
 | **SM_5** | Hartwich, Richard. _Steyler Missionare in China: 5, Aus Kriegsruinen zu neuen Grenzen, 1920–1923._ Beiträge zu einer Geschichte. Studia Instituti Missiologici Societatis Verbi Divini, 48. Nettetal: Steyler Verlag, 1989. |
 | **SM_6** | Hartwich, Richard. _Steyler Missionare in China: 6, Auf den Wogen des Chinesischen Bürgerkrieges, 1924–1926._ Beiträge zu einer Geschichte. Studia Instituti Missiologici Societatis Verbi Divini, 53. Nettetal: Steyler Verlag, 1991. |
+| **SOLOMEINA** |Solomeina, Y. N. "Трехречье – русская национальная волость в приграничном Китае." In Общество и государство в Китае: Т. XLIII ч. 2 [Society and State in China: Vol. 43, Part 2], edited by A. I. Kobzev et al., 223–227. Moscow: Institute of Oriental Studies, Russian Academy of Sciences, 2013. Accessed November 26, 2024. https://www.synologia.ru/a/%D0%A2%D1%80%D0%B5%D1%85%D1%80%D0%B5%D1%87%D1%8C%D0%B5_%E2%80%93_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D1%8C_%D0%B2_%D0%BF%D1%80%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%BC_%D0%9A%D0%B8%D1%82%D0%B0%D0%B5.|
 | **STENZ_1904** | Stenz, Georg M. _P. Richard Henle aus der Gesellschaft des Göttlichen Wortes : Missionar in China ; ermordet am 1. November 1897 ; ein Lebensbild / gezeichnet von Georg M. Stenz /_. Steyl, NL: Missionsdruckerei; Druck und Verlag der Missionsdruckerei, 1904. |
 | **TIEDEMANN_2009** | R. G. Tiedemann. Reference guide to Christian missionary societies in China: from the sixteenth to the twentieth century. Armonk, NY : M.E. Sharpe, Inc., 2009. |
 | **TIMKOVSKII_1824** | Тимковский Е.Ф. Путешествие в Китай чрез Монголию в 1820 и 1821 годах. Часть 1-3. СПб: Типография медицинского департамента МВД, 1824. |
@@ -244,6 +246,8 @@ Below is a list of all sources currently used to populate the data of the CHCD. 
 | **WL** | William Lockhart. The Medical Missionary in China: A Narrative of Twenty Years Experience. London: Hurst and Blackett Publishers, 1861. |
 | **XIAO_2009** | Xiao Yuqiu 肖玉秋. Eguo chuanjiaotuan yu Qingdai ZhongE wenhua jiaoliu 俄國傳教團與清代中俄文化交流 [The Russian Orthodox Mission in Beijing and Sino-Russian Cultural Exchange during the Qing dynasty]. (Tianjin: Tianjin renmin chubanshe, 2009). |
 | **YOUNG_1950** | Young, James L. R., “Exit Papers from China,” July 6, 1950. Private Collection of Nancy Grove. Young, James L. R., “Biography of Dr. James L. R. Young,” September 16, 1950. Private Collection of Nancy Grove.|
+| **ZUENKO** |Zuenko. "Russian Toponomics", Liubimyi Harbin (2019), 66.|
 | **ZHUKOV_2018** | Жуков В.Ю., Кульганек И.В., "Монголовед О. М. Ковалевский и его родные: биографический этюд", МЕЖДУНАРОДНАЯ НАУЧНАЯ КОНФЕРЕНЦИЯ Первые Ковалевские чтения, 24-26 сентября 2018 г. Программа, Тезисы. Казань - Санкт-Петербург, 2018, 33-37. |
 | **ZMEEV_1886** | Змеев, Лев Федорович (1832-1901). Русские врачи писатели / Сост. Лев Фед. Змеев, д-р мед. Вып. 1 - Санкт-Петербург : [скл. изд. у авт.], 1886 - Т 1. |
 | **ZMP5_1970** | Журнал Московской Патриархии 1970 №5, 48. |
+
