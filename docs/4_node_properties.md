@@ -136,8 +136,8 @@ Nodes contain the largest array of properties within the database. These propert
 | **alternative_chinese_name_hanzi** | Alternative Chinese names of event. Separated by semi-colons. | STRING |
 | **name_romanized** | Most common Romanized name of event. | STRING |
 | **alternative_name_romanized** | Alternative Romanized names of event. Sometimes followed by abbreviated romanization system in parenthesis. (e.g. (py) for pinyin, (wg) for wade-giles, etc.). Separated by semicolons. | STRING |
-| **event_category** | Category of event. Current options: Journey, Political Embassy, Missionary Party. | STRING |
-| **event_subcategory** | Subcategory of event. Current options: Journey, Missionary Party. | STRING |
+| **event_category** | Category of event. Current options: Conflict, Meeting, Journey, Political Embassy, Missionary Party, Missionary Conference, Military Conflict, Other. | STRING |
+| **event_subcategory** | Subcategory of event. Current options: Journey, Missionary Party, Earthquake, Escape, Ecclesial Mission, Detainment, Synod, General Chapter, Sea Voyage, Commissioning Group, Campaign. | STRING |
 | **christian_tradition** | Options: Protestant, Catholic, Orthodox, Unknown, Non-Religious. | STRING |
 | **religious_family** | Broad Christian tradition to which an individual belonged. Current Options: Non-Religious, Interdenominational, Pentecostal, Adventist, Baptist, Congregational, Quaker, Lutheran, Presbyterian, Anglican, Independent, Methodist, Holiness, Nondenominational, Brethren, Reformed, Restorationist, Mennonite, Dominican, Franciscan, Ignatian, Claretian, Augustinian, Benedictine, Carmelite, Cistercian, Ursuline, Salesian, Russian Orthodoxy, Maryknoll, Latter Day Saints, Passionist. | STRING |
 | **start_day** | Start day of event. | INTEGER |
