@@ -53,6 +53,7 @@ Below is a list of all sources currently used to populate the data of the CHCD. 
 | **BANTYSH_1882** | N.N. Bantysh-Kamenskii. Diplomaticheskoe sobranie diel mezhdu Rossiiskim i Kitaiskim gosudarstvami s 1619 po 1792-i god (Collection of Diplomatic Affairs Between the Russian and Chinese Governments from 1619 to 1792). Ed. V.M. Florinskii. Kazan: Tipographia Imperatorskago Universiteta, 1882. |
 | **BBLD** | Brettschneider, Alexander Hermann Emil. Baltisches biografisches Lexikon digital. https://bbld.de/dbbl/101/. |
 | **BDCC** | Biographical Dictionary of Christianity in China. https://bdcconline.net/. |
+| **BECKMAN** | Beckman, E.R. _The Massacre at Sianfu : and other experiences in connection with the Scandinavian Alliance Mission of North America_. Chicago: J.V. Martenson, 1913.|
 | **BEIPING_ZHAJI** | Xi Xiande, _Beiping Furen daxue zhaji_, Furendaxue xueshu congshu, xiaoshi xilie 1012. Xinzhuang: Furen daxue chubanshe, 2004. |
 | **BINDAC** | Bindac, Arnost. "Das Leben einer Missionsschwester" (unpublished manuscript, original language: Slovak, translated into German). 2 vols. 291 pp. Held at the library of the SSpS in Stockerau. |
 | **BJFRDX** | Ke Boshi 柯博識 (Kuepers, Jac). _Sili Beijing Furen daxue 1925-1950: Linian, licheng, jiaoyuan_ 私立北京輔仁大學 1925-1950：理念、歷程、教員. Taibei xian Xinzhuang shi: Furendaxue chubanshe, 2007. |
