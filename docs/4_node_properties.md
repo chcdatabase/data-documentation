@@ -172,6 +172,7 @@ Nodes contain the largest array of properties within the database. These propert
 | **publication_language** | The original language of publications. Semi-colons used to separate multiple languages. | STRING |
 | **publication_category** | Category of publication. Current options: Magazine, Bulletin, Report, Journal, Newspaper, Reference Work, Book. | STRING |
 | **publication_subcategory** | Subcategory of publication. | STRING |
+| **content** | Brief description of the content of the publication. | STRING |
 | **start_day** | Start day of publication. If the publication is not a series, these start date fields simply record the publication date | INTEGER |
 | **start_month** | Start month of publication. | INTEGER |
 | **start_year** | Start year of publication. | INTEGER |
