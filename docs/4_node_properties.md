@@ -170,7 +170,7 @@ Nodes contain the largest array of properties within the database. These propert
 | **format** | Succinct description of the format including physical size, print medium, number of pages, or other information. | STRING |
 | **price** | Records pricing information for publications, including single copy costs, subscription fees, or other relevant pricing details, with a semicolon-separated list of prices and corresponding situations. | STRING |
 | **publication_language** | The original language of publications. Semi-colons used to separate multiple languages. | STRING |
-| **publication_category** | Category of publication. Current options: Book, Series, Issue, Ephemera, Other. | STRING |
+| **publication_category** | Category of publication. Current options: Magazine, Bulletin, Report, Journal, Newspaper, Reference Work, Book. | STRING |
 | **publication_subcategory** | Subcategory of publication. | STRING |
 | **start_day** | Start day of publication. If the publication is not a series, these start date fields simply record the publication date | INTEGER |
 | **start_month** | Start month of publication. | INTEGER |
